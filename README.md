@@ -22,4 +22,4 @@ Where to find the code?
 https://github.com/Shikhar198ras/ProductsImport.CLi
 
 
-Answers for SQL Test Assignment are present in **sql_assigment.txt** file
+Answers for SQL Test Assignment are present in **SQLAssignment.txt** file
